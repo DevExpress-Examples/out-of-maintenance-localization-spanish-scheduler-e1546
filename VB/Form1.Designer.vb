@@ -64,6 +64,7 @@ Namespace FrenchScheduler
 			Me.dateNavigator1.Dock = System.Windows.Forms.DockStyle.Right
 			Me.dateNavigator1.Location = New System.Drawing.Point(580, 44)
 			Me.dateNavigator1.Name = "dateNavigator1"
+        Me.dateNavigator1.CellPadding = New System.Windows.Forms.Padding(2)
 			Me.dateNavigator1.SchedulerControl = Me.schedulerControl1
 			Me.dateNavigator1.Size = New System.Drawing.Size(179, 395)
 			Me.dateNavigator1.TabIndex = 3
